@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="The_design_of_everyday_things_backcover" size="0.138000 0.209726" />
+    <ImageTarget name="Dune" size="0.140000 0.210000" />
+    <ImageTarget name="Stories_of_your_life" size="0.132000 0.203494" />
+    <ImageTarget name="Naked_statistics" size="0.139000 0.208500" />
+    <ImageTarget name="The_design_of_everyday_things" size="13.800000 20.658682" />
+  </Tracking>
+</QCARConfig>
